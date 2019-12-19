@@ -1,0 +1,47 @@
+{
+    "name": "Nordic API Gateway",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/nordic-api-gateway.png",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "gateway",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/nordic-api-gateway\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Nordic API Gateway",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/nordic-api-gateway.png",
+            "humanURL": "https:\/\/nordicapigateway.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nordic-api-gateway-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nordic-api-gateway-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.nordicapigateway.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/nordicapigateway.com\/"
+        }
+    ]
+}
